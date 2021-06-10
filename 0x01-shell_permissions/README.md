@@ -1,0 +1,1 @@
+este es el codigo del shell permisos 
